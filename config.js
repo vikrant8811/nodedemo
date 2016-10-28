@@ -3,7 +3,7 @@ module.exports = {
 	port: 3000,
 	is_hosted: false,
 	redis: {
-		host: '10.1.72.7',
-		port: 6379
+		host: 'redis-15288.c10.us-east-1-3.ec2.cloud.redislabs.com',
+		port: 15288
 	}
 };
